@@ -1,6 +1,5 @@
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@80.94.83.248:443?encryption=none&security=tls&sni=hetzner.shahinstore.shop&type=ws&host=hetzner.shahinstore.shop&path=%2F%3Fed%3D2048#4%20%F0%9F%87%A9%F0%9F%87%AA%2BCypherpunks%20%5B%202020%20-%20mci
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@www.csgo.com:443?encryption=none&security=tls&sni=hetzner.shahinstore.shop&type=ws&host=hetzner.shahinstore.shop&path=%2F%3Fed%3D2048#1%20%F0%9F%87%A9%F0%9F%87%AA%2BGermany%2BCypherpunks%20
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@203.32.121.8:443?encryption=none&security=tls&sni=hetzner.shahinstore.shop&type=ws&host=hetzner.shahinstore.shop&path=%2F%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA%2BCypherpunks%2B
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@www.csgo.com:443?encryption=none&security=tls&sni=hetzner.shahinstore.shop&type=ws&host=hetzner.shahinstore.shop&path=%2F%3Fed%3D2048#2%20%F0%9F%87%A9%F0%9F%87%AA%2BGermany%2BCypherpunks%20
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@203.32.121.8:443?encryption=none&security=tls&sni=hetzner.shahinstore.shop&type=ws&host=hetzner.shahinstore.shop&path=%2F%3Fed%3D2048#5%20%F0%9F%87%A9%F0%9F%87%AA%2BCypherpunks%2B
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.19.235.14:443?encryption=none&security=tls&sni=hetzner.shahinstore.shop&type=ws&host=hetzner.shahinstore.shop&path=%2F%3Fed%3D2048#3%20%F0%9F%87%A9%F0%9F%87%AA%20Cypherpunks%20%5B%202020%20-%20mci
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.111:443?encryption=none&security=tls&sni=hetzner.shahinstore.shop&type=ws&host=hetzner.shahinstore.shop&path=%2F%3Fed%3D2048#1%20%F0%9F%87%A9%F0%9F%87%AA%20Cypherpunks%202%20%5B%202020%20-%20mci
-sn://ssh?eNpjYGBgsDTRMzKy0DM0N9AzNNrOysHAUJSf_4URKFNeFOafmJHkmWMa8KoRJBAc7KEAkmxsBABlPQ9L
