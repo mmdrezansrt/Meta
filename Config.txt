@@ -1,1 +1,0 @@
-vless://5f137c03-32df-4245-8bd1-916182ddbb16@185.143.234.111:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=d2.sazmanemelalemotahed.tech&fp=chrome&type=ws&sni=d2.sazmanemelalemotahed.tech#sw.d2.+cdn-mofcious
