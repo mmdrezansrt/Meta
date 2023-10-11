@@ -7,12 +7,12 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@203.32.121.8:443?encryption=none&se
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@www.discord.com:443?encryption=none&security=tls&sni=hetzner.shahinstore.shop&type=ws&host=hetzner.shahinstore.shop&path=%2F%3Fed%3D2048#6%20%F0%9F%87%A9%F0%9F%87%AA%2BCypherpunks
 
 
-vless://c8d3892c-90c6-41d4-8be6-646273f8a853@141.101.113.89:443?encryption=none&security=tls&sni=ar2.shahinstore.shop&alpn=http%2F1.1&type=ws&host=ar2.shahinstore.shop&path=%2F%3Fed%3D2048#16%F0%9F%8C%8E%20CF_worker
-vless://c8d3892c-90c6-41d4-8be6-646273f8a853@185.238.228.182:443?encryption=none&security=tls&sni=ar2.shahinstore.shop&alpn=http%2F1.1&type=ws&host=ar2.shahinstore.shop&path=%2F%3Fed%3D2048#11%F0%9F%8C%8E%20CF_worker
+vless://c8d3892c-90c6-41d4-8be6-646273f8a853@185.238.228.182:443?encryption=none&security=tls&sni=ar2.shahinstore.shop&alpn=http%2F1.1&type=ws&host=ar2.shahinstore.shop&path=%2F%3Fed%3D2048#11%20%F0%9F%8C%8E%20CF_worker
 vless://c8d3892c-90c6-41d4-8be6-646273f8a853@203.32.121.8:443?encryption=none&security=tls&sni=ar2.shahinstore.shop&alpn=http%2F1.1&type=ws&host=ar2.shahinstore.shop&path=%2F%3Fed%3D2048#12%20%F0%9F%8C%8E%20CF_worker
 vless://c8d3892c-90c6-41d4-8be6-646273f8a853@199.247.6.98:443?encryption=none&security=tls&sni=ar2.shahinstore.shop&alpn=http%2F1.1&type=ws&host=ar2.shahinstore.shop&path=%2F%3Fed%3D2048#13%20%F0%9F%8C%8E%20CF_worker
 vless://c8d3892c-90c6-41d4-8be6-646273f8a853@203.22.223.24:443?encryption=none&security=tls&sni=ar2.shahinstore.shop&alpn=http%2F1.1&type=ws&host=ar2.shahinstore.shop&path=%2F%3Fed%3D2048#14%20%F0%9F%8C%8E%20CF_worker
 vless://c8d3892c-90c6-41d4-8be6-646273f8a853@173.245.58.34:443?encryption=none&security=tls&sni=ar2.shahinstore.shop&alpn=http%2F1.1&type=ws&host=ar2.shahinstore.shop&path=%2F%3Fed%3D2048#15%20%F0%9F%8C%8E%20CF_worker
+vless://c8d3892c-90c6-41d4-8be6-646273f8a853@141.101.113.89:443?encryption=none&security=tls&sni=ar2.shahinstore.shop&alpn=http%2F1.1&type=ws&host=ar2.shahinstore.shop&path=%2F%3Fed%3D2048#16%20%F0%9F%8C%8E%20CF_worker
 
 
 vless://87873596-3323-426e-8d6c-fe74b333713f@104.31.16.109:443?encryption=none&security=tls&sni=russ.cypherpunks.asia&alpn=http%2F1.1&type=ws&host=russ.cypherpunks.asia&path=%2Frussel%3Fed%3D2048#37%20%E2%96%A0%20Iranian%20Cypherpunks%201
